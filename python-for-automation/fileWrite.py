@@ -1,14 +1,14 @@
 f = open('inputFile.txt', 'r')
-#print(f.read()) reads all
-
-#find only passers
-#count = 0
+passFile = open('Passfile.txt', 'w')
+failFile = open('Failfile.txt', 'w')
 
 for line in f:
-    #print(str(count) + line)
-    #count = count + 1
     line_split = line.split()
     if line_split[2] == "P":
-        print(line)
-        
+        passFile.write(line)
+    else:
+        failFile.write(line)
+
 f.close()
+passFile.close()
+failFile.close()
