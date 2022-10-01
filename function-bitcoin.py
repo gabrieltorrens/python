@@ -1,3 +1,5 @@
+# credit: https://tryhackme.com/room/pythonbasics
+
 bitcoin_on_hand = 1.2
 one_bitcoin_to_usd = 25000
 
