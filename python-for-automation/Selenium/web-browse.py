@@ -1,4 +1,3 @@
-from re import A
 from selenium import webdriver
 
 driver = webdriver.Chrome(executable_path=r"C:\Users\Gabe\chromedriver\chromedriver.exe") #passes raw string
