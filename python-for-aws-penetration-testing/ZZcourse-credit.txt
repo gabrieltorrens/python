@@ -1,0 +1,1 @@
+https://www.linkedin.com/learning/python-pen-testing-aws/using-python-to-test-for-cloud-deployment-weaknesses-through-pen-testing
