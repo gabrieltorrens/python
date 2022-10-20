@@ -1,1 +1,364 @@
 .DS_Store
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+#   For a library or package, you might want to ignore these files since the code is
+#   intended to run in multiple environments; otherwise, check them in:
+# .python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# poetry
+#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
+#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   commonly ignored for libraries.
+#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poetry.lock
+
+# pdm
+#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
+#pdm.lock
+#   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
+#   in version control.
+#   https://pdm.fming.dev/#use-with-ide
+.pdm.toml
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# PyCharm
+#  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
+#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+#.idea/
+plaidapi.py
+python-for-aws-penetration-testing/ec2-get-instances.py
+python-for-aws-penetration-testing/with-key/iam-get-all.py
+python-for-aws-penetration-testing/with-key/sts-get-callerid.py
+python-for-automation/apis/use-key.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_01/end/miami.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_02/begin/miami.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_02/end/miami.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_03/Begin/starter.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_03/End/userlist.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_04/Begin/starter.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_04/End/guards.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_05/Begin/starter.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_05/End/iams.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_06/Begin/starter.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_06/End/backdoor.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_07/Begin/starter.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_07/End/mysecrets.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_08/Begin/starter.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_08/End/ec2list.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_09/Begin/starter.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_09/End/rdslist.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_10/starter.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH03/03_11/s3list.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_01/ec2list.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_01/pate.db
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_01/pate.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_01/test.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_02/pate.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_03/ec2list.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_03/pate.db
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_03/pate.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_03/test.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_04/ec2list.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_04/pate.db
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_04/pate.py
+python-for-aws-penetration-testing/Ex_Files_Python_AWS/Exercise Files/CH04/04_04/test.py
+misc/subdomain-emun.py
+misc/wordlist.txt
+learning-python/Exercise Files/.gitignore
+learning-python/Exercise Files/CONTRIBUTING.md
+learning-python/Exercise Files/LICENSE
+learning-python/Exercise Files/NOTICE
+learning-python/Exercise Files/README.md
+learning-python/Exercise Files/.github/CODEOWNERS
+learning-python/Exercise Files/.github/ISSUE_TEMPLATE.md
+learning-python/Exercise Files/.github/PULL_REQUEST_TEMPLATE.md
+learning-python/Exercise Files/.github/workflows/main.yml
+learning-python/Exercise Files/Ch2 - Basics/challenge_solution.py
+learning-python/Exercise Files/Ch2 - Basics/classes_finished.py
+learning-python/Exercise Files/Ch2 - Basics/classes_start.py
+learning-python/Exercise Files/Ch2 - Basics/conditionals_finished.py
+learning-python/Exercise Files/Ch2 - Basics/conditionals_start.py
+learning-python/Exercise Files/Ch2 - Basics/exceptions_finished.py
+learning-python/Exercise Files/Ch2 - Basics/exceptions_start.py
+learning-python/Exercise Files/Ch2 - Basics/functions_finished.py
+learning-python/Exercise Files/Ch2 - Basics/functions_start.py
+learning-python/Exercise Files/Ch2 - Basics/helloworld_finished.py
+learning-python/Exercise Files/Ch2 - Basics/helloworld_start.py
+learning-python/Exercise Files/Ch2 - Basics/loops_finished.py
+learning-python/Exercise Files/Ch2 - Basics/loops_start.py
+learning-python/Exercise Files/Ch2 - Basics/modules_finished.py
+learning-python/Exercise Files/Ch2 - Basics/modules_start.py
+learning-python/Exercise Files/Ch2 - Basics/variables_finished.py
+learning-python/Exercise Files/Ch2 - Basics/variables_start.py
+learning-python/Exercise Files/Ch3 - Files/challenge_solution.py
+learning-python/Exercise Files/Ch3 - Files/files_finished.py
+learning-python/Exercise Files/Ch3 - Files/files_start.py
+learning-python/Exercise Files/Ch3 - Files/ospathutils_finished.py
+learning-python/Exercise Files/Ch3 - Files/ospathutils_start.py
+learning-python/Exercise Files/Ch3 - Files/shell_finished.py
+learning-python/Exercise Files/Ch3 - Files/shell_start.py
+learning-python/Exercise Files/Ch4 - Dates and Times/calendars_finished.py
+learning-python/Exercise Files/Ch4 - Dates and Times/calendars_start.py
+learning-python/Exercise Files/Ch4 - Dates and Times/challenge_solution.py
+learning-python/Exercise Files/Ch4 - Dates and Times/challenge_start.py
+learning-python/Exercise Files/Ch4 - Dates and Times/dates_finished.py
+learning-python/Exercise Files/Ch4 - Dates and Times/dates_start.py
+learning-python/Exercise Files/Ch4 - Dates and Times/formatting_finished.py
+learning-python/Exercise Files/Ch4 - Dates and Times/formatting_start.py
+learning-python/Exercise Files/Ch4 - Dates and Times/timedeltas_finished.py
+learning-python/Exercise Files/Ch4 - Dates and Times/timedeltas_start.py
+learning-python/Exercise Files/Ch5 - Internet Data/htmlparsing_finished.py
+learning-python/Exercise Files/Ch5 - Internet Data/htmlparsing_start.py
+learning-python/Exercise Files/Ch5 - Internet Data/inetdata_finished.py
+learning-python/Exercise Files/Ch5 - Internet Data/inetdata_start.py
+learning-python/Exercise Files/Ch5 - Internet Data/jsondata_finished.py
+learning-python/Exercise Files/Ch5 - Internet Data/jsondata_start.py
+learning-python/Exercise Files/Ch5 - Internet Data/samplehtml.html
+learning-python/Exercise Files/Ch5 - Internet Data/samplexml.xml
+learning-python/Exercise Files/Ch5 - Internet Data/xmlparsing_finished.py
+learning-python/Exercise Files/Ch5 - Internet Data/xmlparsing_start.py
+learning-python/test-dir/results.txt
+learning-python/test-dir/test1.txt
+learning-python/test-dir/test2.py
+learning-python/test-dir/test3.png
+automate-boring-stuff/.vscode/launch.json
+automate-boring-stuff/adv-strings.py
+automate-boring-stuff/assert.py
+automate-boring-stuff/automate2.py
+automate-boring-stuff/automateboringstuff.py
+automate-boring-stuff/c.py
+automate-boring-stuff/data-struct.py
+automate-boring-stuff/debugger.py
+automate-boring-stuff/delete-dryrun.py
+automate-boring-stuff/dict2.py
+automate-boring-stuff/dictionary.py
+automate-boring-stuff/error_log.txt
+automate-boring-stuff/error-1.py
+automate-boring-stuff/error-traceback.py
+automate-boring-stuff/examplePhoneEmailDirectory.pdf
+automate-boring-stuff/file-editing.py
+automate-boring-stuff/files-delete.py
+automate-boring-stuff/files-dirwalk.py
+automate-boring-stuff/files-send2trash.py
+automate-boring-stuff/files.py
+automate-boring-stuff/files2.py
+automate-boring-stuff/files3.py
+automate-boring-stuff/files4.py
+automate-boring-stuff/for.py
+automate-boring-stuff/forloops.py
+automate-boring-stuff/functions.py
+automate-boring-stuff/listmethods.py
+automate-boring-stuff/lists.py
+automate-boring-stuff/listvsstrings.py
+automate-boring-stuff/log-test-mylogs.txt
+automate-boring-stuff/log-test.py
+automate-boring-stuff/mydata.bak
+automate-boring-stuff/mydata.dat
+automate-boring-stuff/mydata.dir
+automate-boring-stuff/newfunc.py
+automate-boring-stuff/numguess.py
+automate-boring-stuff/regex-characters.py
+automate-boring-stuff/regex-final.py
+automate-boring-stuff/regex-finding.py
+automate-boring-stuff/regex-greedy.py
+automate-boring-stuff/regex-sub-verbose.py
+automate-boring-stuff/regex.py
+automate-boring-stuff/regex2.py
+automate-boring-stuff/regex3.py
+automate-boring-stuff/scopes.py
+automate-boring-stuff/string methods.py
+automate-boring-stuff/string-formatting.py
+automate-boring-stuff/test.py
+automate-boring-stuff/try2.py
+automate-boring-stuff/while.py
+automate-boring-stuff/delicious/spam.txt
+automate-boring-stuff/delicious/spamspamspam.txt
+automate-boring-stuff/delicious/walnut/eggs.txt
+automate-boring-stuff/delicious/walnut/waffles/bacon.txt
+automate-boring-stuff/delicious/walnut/waffles/ham.txt
+adv-python-class/Exercise Files/01 Language/codingstyle_finished.py
+adv-python-class/Exercise Files/01 Language/strings_finished.py
+adv-python-class/Exercise Files/01 Language/strings_start.py
+adv-python-class/Exercise Files/01 Language/templstr_finished.py
+adv-python-class/Exercise Files/01 Language/templstr_start.py
+adv-python-class/Exercise Files/02 BuiltIn Functions/iterators_finished.py
+adv-python-class/Exercise Files/02 BuiltIn Functions/iterators_start.py
+adv-python-class/Exercise Files/02 BuiltIn Functions/itertools_finished.py
+adv-python-class/Exercise Files/02 BuiltIn Functions/itertools_start.py
+adv-python-class/Exercise Files/02 BuiltIn Functions/testfile.txt
+adv-python-class/Exercise Files/02 BuiltIn Functions/transforms_finished.py
+adv-python-class/Exercise Files/02 BuiltIn Functions/transforms_start.py
+adv-python-class/Exercise Files/02 BuiltIn Functions/utilfuncs_finished.py
+adv-python-class/Exercise Files/02 BuiltIn Functions/utilfuncs_start.py
+adv-python-class/Exercise Files/03 Functions/docstrings_finished.py
+adv-python-class/Exercise Files/03 Functions/docstrings_start.py
+adv-python-class/Exercise Files/03 Functions/keyargs_finished.py
+adv-python-class/Exercise Files/03 Functions/keyargs_start.py
+adv-python-class/Exercise Files/03 Functions/lambdas_finished.py
+adv-python-class/Exercise Files/03 Functions/lambdas_start.py
+adv-python-class/Exercise Files/03 Functions/varargs_finished.py
+adv-python-class/Exercise Files/03 Functions/varargs_start.py
+adv-python-class/Exercise Files/04 Collections/counter_finished.py
+adv-python-class/Exercise Files/04 Collections/counter_start.py
+adv-python-class/Exercise Files/04 Collections/defaultdict_finished.py
+adv-python-class/Exercise Files/04 Collections/defaultdict_start.py
+adv-python-class/Exercise Files/04 Collections/deque_finished.py
+adv-python-class/Exercise Files/04 Collections/deque_start.py
+adv-python-class/Exercise Files/04 Collections/namedtup_finished.py
+adv-python-class/Exercise Files/04 Collections/namedtup_start.py
+adv-python-class/Exercise Files/04 Collections/ordereddict_finished.py
+adv-python-class/Exercise Files/04 Collections/ordereddict_start.py
+adv-python-class/Exercise Files/05 Classes/comparison_finished.py
+adv-python-class/Exercise Files/05 Classes/comparison_start.py
+adv-python-class/Exercise Files/05 Classes/compattrs_finished.py
+adv-python-class/Exercise Files/05 Classes/compattrs_start.py
+adv-python-class/Exercise Files/05 Classes/enums_finished.py
+adv-python-class/Exercise Files/05 Classes/enums_start.py
+adv-python-class/Exercise Files/05 Classes/numeric_finished.py
+adv-python-class/Exercise Files/05 Classes/numeric_start.py
+adv-python-class/Exercise Files/05 Classes/objectstrs_finished.py
+adv-python-class/Exercise Files/05 Classes/objectstrs_start.py
+adv-python-class/Exercise Files/06 Logging/basiclog_finished.py
+adv-python-class/Exercise Files/06 Logging/basiclog_start.py
+adv-python-class/Exercise Files/06 Logging/customlog_finished.py
+adv-python-class/Exercise Files/06 Logging/customlog_start.py
+adv-python-class/Exercise Files/07 Comprehensions/dictcomp_finished.py
+adv-python-class/Exercise Files/07 Comprehensions/dictcomp_start.py
+adv-python-class/Exercise Files/07 Comprehensions/listcomp_finished.py
+adv-python-class/Exercise Files/07 Comprehensions/listcomp_start.py
+adv-python-class/Exercise Files/07 Comprehensions/setcomp_finished.py
+adv-python-class/Exercise Files/07 Comprehensions/setcomp_start.py
