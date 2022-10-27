@@ -366,3 +366,35 @@ adv-python-class/string-templates.py
 learning-python/samplehtml.html
 learning-python/samplexml.xml
 misc/multiple-objects.py
+foundations-algorithms/Exercise Files/1 Introduction/gcd_finished.py
+foundations-algorithms/Exercise Files/1 Introduction/gcd_start.py
+foundations-algorithms/Exercise Files/2 Data Structures/Hash Table/hashtable_finished.py
+foundations-algorithms/Exercise Files/2 Data Structures/Hash Table/hashtable_start.py
+foundations-algorithms/Exercise Files/2 Data Structures/LinkedList/linklist_finished.py
+foundations-algorithms/Exercise Files/2 Data Structures/LinkedList/linklist_start.py
+foundations-algorithms/Exercise Files/2 Data Structures/Queues/queue_finished.py
+foundations-algorithms/Exercise Files/2 Data Structures/Queues/queue_start.py
+foundations-algorithms/Exercise Files/2 Data Structures/Stacks/stack_finished.py
+foundations-algorithms/Exercise Files/2 Data Structures/Stacks/stack_start.py
+foundations-algorithms/Exercise Files/3 Recursion/countdown_finished.py
+foundations-algorithms/Exercise Files/3 Recursion/countdown_start.py
+foundations-algorithms/Exercise Files/3 Recursion/recursion_finished.py
+foundations-algorithms/Exercise Files/3 Recursion/recursion_start.py
+foundations-algorithms/Exercise Files/4 Sorting/BubbleSort/bubble_finished.py
+foundations-algorithms/Exercise Files/4 Sorting/BubbleSort/bubble_start.py
+foundations-algorithms/Exercise Files/4 Sorting/MergeSort/mergesort_finished.py
+foundations-algorithms/Exercise Files/4 Sorting/MergeSort/mergesort_start.py
+foundations-algorithms/Exercise Files/4 Sorting/Quicksort/quicksort_finished.py
+foundations-algorithms/Exercise Files/4 Sorting/Quicksort/quicksort_start.py
+foundations-algorithms/Exercise Files/5 Searching/issorted_finished.py
+foundations-algorithms/Exercise Files/5 Searching/issorted_start.py
+foundations-algorithms/Exercise Files/5 Searching/ordered_finished.py
+foundations-algorithms/Exercise Files/5 Searching/ordered_start.py
+foundations-algorithms/Exercise Files/5 Searching/unordered_finished.py
+foundations-algorithms/Exercise Files/5 Searching/unordered_start.py
+foundations-algorithms/Exercise Files/6 Other Algorithms/Filter_finished.py
+foundations-algorithms/Exercise Files/6 Other Algorithms/Filter_start.py
+foundations-algorithms/Exercise Files/6 Other Algorithms/findmax_finished.py
+foundations-algorithms/Exercise Files/6 Other Algorithms/findmax_start.py
+foundations-algorithms/Exercise Files/6 Other Algorithms/ValueCounter_finished.py
+foundations-algorithms/Exercise Files/6 Other Algorithms/ValueCounter_start.py
