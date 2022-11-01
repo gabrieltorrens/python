@@ -2,7 +2,7 @@ def bubbleSort(dataset):
     # TODO: start with the array length and decrement each time
     for i in range(len(dataset)-1,0,-1): #countdown from end of array
         for j in range(i): #for loop in a for loop usually = quadratic big O
-            if dataset[j] > dataset[j+1]:
+            if dataset[j] > dataset[j+1]: #swap place if looking at a bigger number
                 temp = dataset[j]
                 dataset[j] = dataset[j+1]
                 dataset[j+1] = temp
