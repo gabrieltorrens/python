@@ -398,3 +398,6 @@ foundations-algorithms/Exercise Files/6 Other Algorithms/findmax_finished.py
 foundations-algorithms/Exercise Files/6 Other Algorithms/findmax_start.py
 foundations-algorithms/Exercise Files/6 Other Algorithms/ValueCounter_finished.py
 foundations-algorithms/Exercise Files/6 Other Algorithms/ValueCounter_start.py
+.vscode/launch.json
+misc/gcd.py
+misc/list-comprehension.py
